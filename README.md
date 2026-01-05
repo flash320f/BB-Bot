@@ -18,7 +18,7 @@ Here comes the BB-Bot.
 ![BOT](image-4.png)
 ## Parts:
 2x JGB37-520 DC motors
-Cytron MDD10A motor driver
+2x 20A ESC for motor driver
 BLHeli series 30A ESC
 1407 Emax drone motor
 50C 7.4V 2200mAH 2S Lipo Battery

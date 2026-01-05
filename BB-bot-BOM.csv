@@ -7,12 +7,12 @@ Drive System,A5,Motor Mount,2,Integrated into chassis
 
 Weapon System,B1,Brushless Motor,1,EMAX 1407 Drone Motor
 Weapon System,B2,Brushless ESC,1,BLHeli-S 30A ESC
-Weapon System,B3,Weapon Disk,1,Eggbeater weapon CNC from 4140 steel
+Weapon System,B3,Weapon Disk,1,Eggbeater weapon CNC'ed from 7075 aluminum
 Weapon System,B4,Weapon Hub/Shaft,1,Direct-drive hub or adapter
 Weapon System,B5,Ball Bearings,2,6000-2RS sealed bearings
 
-Control System,C1,RC Transmitter,1,FlySky FS-i6X
-Control System,C2,RC Receiver,1,FlySky FS-iA6B
+Control System,C1,RC Transmitter,1,HotRCDS-600
+Control System,C2,RC Receiver,1,HotRCDS-600
 Control System,C3,PWM Signal Cables,3-4,ESC and motor driver connections
 
 Power System,D1,LiPo Battery,1,7.4V 2S 2200mAh 50C
@@ -20,13 +20,11 @@ Power System,D2,Battery Connector,1,XT60
 Power System,D3,Power Wiring,As required,16-18 AWG silicone wire
 Power System,D4,BEC / Voltage Regulator,1,Required if ESC has no BEC
 
-Structural,E1,Main Chassis Plate,1,HDPE or TPU
-Structural,E2,Fenders / Wheel Guards,2,TPU or HDPE
-Structural,E3,Top Plate / Armor,1,Steel or HDPE/TPU
+Structural,E1,Main Chassis Plate,1,HDPE 
+Structural,E2,Fenders / Wheel Guards,2,HDPE
+Structural,E3,Top Plate / Armor,1,HDPE
 Structural,E4,Internal Mounts,As required,Integrated into chassis
 
 Fasteners,F1,Ball Bearings,2-4,6000-2RS sealed
 Fasteners,F2,Screws,As required,M3/M4 steel screws
 Fasteners,F3,Nuts,As required,M3/M4
-Fasteners,F4,Spacers / Standoffs,As required,Aluminum or nylon
-Fasteners,F5,Shaft Collars,As required,Wheel and weapon retention
