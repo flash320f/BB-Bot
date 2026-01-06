@@ -1,30 +1,30 @@
-Category,Item No.,Component Name,Quantity,Specification / Notes
-Drive System,A1,DC Gear Motor,2,JGB37-520 DC Gear Motor
+Category,Item No.,Component Name,Quantity,Specification / Notes, Links
+Drive System,A1,DC Gear Motor,2,JGB37-520 DC Gear Motor,https://www.aliexpress.com/item/4001266677327.html
 Drive System,A2,Drive Wheel,2,Approx 65mm diameter
-Drive System,A3,Timing Belt,1,T2.5 belt for front wheel coupling
-Drive System,A4,O-Ring,4,Used for wheel traction
-Drive System,A5,Motor Mount,2,Integrated into chassis
+Drive System,A3,Timing Belt,1,T2.5 belt for front wheel coupling,https://www.aliexpress.com/item/32281451054.html
+Drive System,A4,O-Ring,4,Used for wheel traction,https://www.aliexpress.com/item/1005008276266074.html
+Drive System,A5,Motor Mount,2,Integrated into chassis, Locally sourced
 
-Weapon System,B1,Brushless Motor,1,EMAX 1407 Drone Motor
-Weapon System,B2,Brushless ESC,1,BLHeli-S 30A ESC
+Weapon System,B1,Brushless Motor,1,EMAX 1407 Drone Motor,https://www.aliexpress.com/item/4000805644029.html
+Weapon System,B2,Brushless ESC,1,BLHeli-S 30A ESC,https://www.aliexpress.com/item/1005006457352568.html
 Weapon System,B3,Weapon Disk,1,Eggbeater weapon CNC'ed from 7075 aluminum
-Weapon System,B4,Weapon Hub/Shaft,1,Direct-drive hub or adapter
-Weapon System,B5,Ball Bearings,2,6000-2RS sealed bearings
+Weapon System,B4,Weapon Hub/Shaft,1,Direct-drive hub or adapter, Locally sourced
+Weapon System,B5,Ball Bearings,2,6000-2RS sealed bearings,https://www.aliexpress.com/item/1005006415364107.html
 
-Control System,C1,RC Transmitter,1,HotRCDS-600
-Control System,C2,RC Receiver,1,HotRCDS-600
-Control System,C3,PWM Signal Cables,3-4,ESC and motor driver connections
+Control System,C1,RC Transmitter,1,HotRCDS-600,https://www.aliexpress.com/item/1005007039477586.html
+Control System,C2,RC Receiver,1,HotRCDS-600,https://www.aliexpress.com/item/1005007039477586.html
+Control System,C3,PWM Signal Cables,3-4,ESC and motor driver connections,https://www.aliexpress.com/item/1005006413206786.html
 
-Power System,D1,LiPo Battery,1,7.4V 2S 2200mAh 50C
-Power System,D2,Battery Connector,1,XT60
-Power System,D3,Power Wiring,As required,16-18 AWG silicone wire
+Power System,D1,LiPo Battery,1,11.1V 3S 2200mAh 30C,https://www.aliexpress.com/item/1005008751010520.html
+Power System,D2,Battery Connector,1,XT60,https://www.aliexpress.com/item/1005010370173332.html
+Power System,D3,Power Wiring,As required,16-18 AWG silicone wire,https://www.aliexpress.com/item/1005001698292417.html
 Power System,D4,BEC / Voltage Regulator,1,Required if ESC has no BEC
 
-Structural,E1,Main Chassis Plate,1,HDPE 
-Structural,E2,Fenders / Wheel Guards,2,HDPE
-Structural,E3,Top Plate / Armor,1,HDPE
-Structural,E4,Internal Mounts,As required,Integrated into chassis
+Structural,E1,Main Chassis Plate,1,HDPE, Locally sourced
+Structural,E2,Fenders / Wheel Guards,2,HDPE, Locally sourced
+Structural,E3,Top Plate / Armor,1,HDPE, Locally sourced
+Structural,E4,Internal Mounts,As required,Integrated into chassis, Locally sourced
 
-Fasteners,F1,Ball Bearings,2-4,6000-2RS sealed
-Fasteners,F2,Screws,As required,M3/M4 steel screws
-Fasteners,F3,Nuts,As required,M3/M4
+Fasteners,F1,Ball Bearings,2-4,6000-2RS sealed,https://www.aliexpress.com/item/1005006415364107.html
+Fasteners,F2,Screws,As required,M3/M4 steel screws, Locally sourced
+Fasteners,F3,Nuts,As required,M3/M4, Locally sourced
